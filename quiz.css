@@ -5,12 +5,16 @@
   font-weight: bold;
 }
 
+body {
+  margin:0;
+}
+
 /*sizing and borders for each article/product*/
 article {
   width: 30%;
   display: inline-block;
   border: 1px solid lightblue;
-  margin: 1.5%;
+  margin: 1.25%;
 }
 
 .productTitle {
